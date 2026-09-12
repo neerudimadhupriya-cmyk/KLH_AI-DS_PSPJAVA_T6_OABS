@@ -7,7 +7,8 @@
 **ABSTRACT** :
 The Online Auction & Bidding System is a Java-based console application designed to simulate a timed online auction process. The system allows users to list auction lots with starting prices, minimum bid increments, and closing times, while bidders can place valid bids and set secret maximum limits through proxy bidding. It automatically validates bids, resolves competing proxy bids, determines winners and final prices, and handles closed or unsold lots. The project is developed progressively alongside the Java course, beginning with basic console operations, conditions, loops, methods, arrays, and gradually extending to object-oriented programming, interfaces, custom exceptions, records, file handling, collections, priority queues, maps, comparators, and streams. Auction data, bids, and settlement results are persisted to files, allowing the system to reload and resolve overdue auctions. The project demonstrates how fundamental Java concepts can be applied to build a complete real-world system.
 **PROJECT STRUCTURE: **
-Online-Auction-Bidding-System/
+Online-Auction-Bidding-System
+
 │
 ├── README.md
 │
